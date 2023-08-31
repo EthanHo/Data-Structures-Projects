@@ -1,3 +1,5 @@
+Project Descriptions:
+
 1. Evaluates any Expression with variables and numbers with the following delimiters *+-/()[].
 2. Finds the shortest chain of people from p1 to p2.
 3. Implementation of a simple search engine for text documents using hash tables.
